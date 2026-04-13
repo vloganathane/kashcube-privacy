@@ -10,11 +10,11 @@ This repository hosts the legal documents for **Kash Cube**, a privacy-first fin
 
 ## 🔗 Live URLs (after GitHub Pages is enabled)
 
-Replace `USERNAME` with your GitHub username:
+Using your GitHub username (`vloganathane`):
 
-- Privacy Policy: `https://USERNAME.github.io/kashcube-privacy/privacy.html`
-- Terms of Use: `https://USERNAME.github.io/kashcube-privacy/terms.html`
-- Landing Page: `https://USERNAME.github.io/kashcube-privacy/`
+- Privacy Policy: `https://vloganathane.github.io/kashcube-privacy/privacy.html`
+- Terms of Use: `https://vloganathane.github.io/kashcube-privacy/terms.html`
+- Landing Page: `https://vloganathane.github.io/kashcube-privacy/`
 
 ## 🚀 Setup Instructions
 
@@ -24,23 +24,23 @@ Replace `USERNAME` with your GitHub username:
    git add .
    git commit -m "Initial commit: Add legal documents for Kash Cube"
    git branch -M main
-   git remote add origin https://github.com/USERNAME/kashcube-privacy.git
+   git remote add origin https://github.com/vloganathane/kashcube-privacy.git
    git push -u origin main
    ```
 
 2. **Enable GitHub Pages:**
-   - Go to your repo: `https://github.com/USERNAME/kashcube-privacy`
+   - Go to your repo: `https://github.com/vloganathane/kashcube-privacy`
    - Click **Settings** → **Pages**
    - Under **Source**, select: **main** branch, **/ (root)** folder
    - Click **Save**
    - Wait 1-2 minutes for deployment
 
 3. **Verify:**
-   - Visit: `https://USERNAME.github.io/kashcube-privacy/`
+   - Visit: `https://vloganathane.github.io/kashcube-privacy/`
    - Check all links work (privacy.html, terms.html)
 
 4. **Add to Play Store:**
-   - Copy the privacy URL: `https://USERNAME.github.io/kashcube-privacy/privacy.html`
+   - Copy the privacy URL: `https://vloganathane.github.io/kashcube-privacy/privacy.html`
    - Paste in Play Console → **Store settings** → **Privacy Policy URL**
 
 ## 📱 About Kash Cube

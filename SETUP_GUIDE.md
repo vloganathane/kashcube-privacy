@@ -25,7 +25,7 @@ The script will guide you through the process.
 
 ### Step 2: Push Files to GitHub
 
-Replace `USERNAME` with your GitHub username:
+Using your GitHub username (`vloganathane`):
 
 ```bash
 cd /Users/loganathanev/Documents/vloganathane/daily-apps/2026/02/24/kashcube-privacy
@@ -42,8 +42,8 @@ git commit -m "Initial commit: Add privacy policy and terms for Kash Cube"
 # Set branch to main
 git branch -M main
 
-# Add remote (replace USERNAME)
-git remote add origin https://github.com/USERNAME/kashcube-privacy.git
+# Add remote
+git remote add origin https://github.com/vloganathane/kashcube-privacy.git
 
 # Push to GitHub
 git push -u origin main
@@ -51,7 +51,7 @@ git push -u origin main
 
 ### Step 3: Enable GitHub Pages
 
-1. Go to your repository: `https://github.com/USERNAME/kashcube-privacy`
+1. Go to your repository: `https://github.com/vloganathane/kashcube-privacy`
 2. Click **Settings** (top menu)
 3. Click **Pages** (left sidebar under "Code and automation")
 4. Under **Source**:
@@ -63,18 +63,18 @@ git push -u origin main
 
 ### Step 4: Verify Deployment
 
-Visit these URLs (replace `USERNAME`):
+Visit these URLs:
 
-- 🏠 Landing page: `https://USERNAME.github.io/kashcube-privacy/`
-- 🔒 Privacy policy: `https://USERNAME.github.io/kashcube-privacy/privacy.html`
-- 📋 Terms of use: `https://USERNAME.github.io/kashcube-privacy/terms.html`
+- 🏠 Landing page: `https://vloganathane.github.io/kashcube-privacy/`
+- 🔒 Privacy policy: `https://vloganathane.github.io/kashcube-privacy/privacy.html`
+- 📋 Terms of use: `https://vloganathane.github.io/kashcube-privacy/terms.html`
 
 ### Step 5: Add to Play Store
 
 1. Go to [Google Play Console](https://play.google.com/console)
 2. Select **Kash Cube** app
 3. Navigate to: **Store settings** → **Privacy Policy**
-4. Paste: `https://USERNAME.github.io/kashcube-privacy/privacy.html`
+4. Paste: `https://vloganathane.github.io/kashcube-privacy/privacy.html`
 5. Click **Save**
 
 ---
@@ -92,7 +92,7 @@ Visit these URLs (replace `USERNAME`):
 - Check the repository on GitHub to see if files are visible
 
 ### Wrong URL format
-- GitHub Pages URL format: `https://USERNAME.github.io/REPO-NAME/file.html`
+- GitHub Pages URL format: `https://<username>.github.io/REPO-NAME/file.html`
 - Example: `https://johndoe.github.io/kashcube-privacy/privacy.html`
 - Do NOT include `.git` in the URL
 
